@@ -21,7 +21,7 @@ Este espaço contém:
 
 - Universidade: Centro Universitário de Brasília (CEUB)
 - Campus: Taguatinga
-- Curso: Ciência da Computação
+- Curso: Engenharia de Software
 - Disciplina: Introdução à Computação
 - Professora: Kadidja
 
