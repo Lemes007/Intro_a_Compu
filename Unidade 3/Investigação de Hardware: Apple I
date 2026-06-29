@@ -1,0 +1,21 @@
+Título: Investigação de Hardware: Apple I
+Descrição do Artefato: apresentar um breve histórico do Apple I, explicando quando foi criado, por quem foi desenvolvido, suas principais características e sua importância para a evolução da computação.
+Análise Técnica: criar uma tabela comparando o Apple I com um computador moderno, abordando:
+Unidade Lógica e Aritmética (ULA)
+Unidade de Controle (UC)
+Memória
+Periféricos de entrada e saída
+Conclusão: explicar como a evolução do hardware permitiu o desenvolvimento dos computadores atuais.
+Imagens: inserir imagens do Apple I utilizando links públicos (preferencialmente do Computer History Museum ou Wikimedia Commons), com legenda.
+Referências: incluir as fontes utilizadas, como:
+Computer History Museum
+Material do Instituto Metrópole Digital (IMD/UFRN)
+Tanenbaum (2013) ou Monteiro (2015)
+
+Requisitos:
+
+Escrever em português (Brasil).
+Utilizar apenas Markdown.
+Organizar o conteúdo com títulos, subtítulos, listas e uma tabela comparativa.
+Produzir um README bem organizado, visualmente bonito e pronto para ser enviado ao GitHub, sem necessidade de ajustes.
+As informações devem ser corretas e baseadas em fontes confiáveis.
