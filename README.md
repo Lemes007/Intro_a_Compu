@@ -79,3 +79,5 @@ Ao longo da disciplina, foram desenvolvidas competências como:
 Este repositório representa o portfólio desenvolvido durante a disciplina de Introdução à Computação, reunindo as atividades propostas ao longo do semestre e demonstrando a aplicação prática dos conteúdos estudados.
 
 Além de servir como registro acadêmico, este portfólio evidencia o desenvolvimento das competências técnicas e analíticas necessárias para a formação de um futuro engenheiro de software, contribuindo para a construção de uma base sólida para disciplinas e projetos futuros.
+
+:)
